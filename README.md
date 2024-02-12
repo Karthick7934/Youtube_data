@@ -62,7 +62,7 @@ To install all the requried lib for python `pip install -r requirements.txt`
 
 To run this project, follow these steps:
 
-1. Clone the repository: git clone 
+1. Clone the repository: git clone https://github.com/Karthick7934/Youtube_data.git
 2. Open the terimal or Command prompt on this cloned folder and pass the command `docker compose up`.
 3. Access the app in your browser at http://localhost:8501 after the docker is up.
 
